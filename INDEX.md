@@ -79,6 +79,12 @@ _Синхронизировано с Google Диска: 2026-08-21 17:23 UTC_
 - **Оригинал на Диске:** `Юридический консультант.md`
 - **Файл:** [`legal/legal-advisor.md`](legal/legal-advisor.md)
 
+## Продукт и игра (AI-driven TTRPG Engine)
+
+### `ai-driven-tts-game-designer.md`
+- **Описание:** Product Manager / Product Lead: проектирование AI-driven текстовой тактической RPG-платформы (TTRPG Engine) — от концепции до структурированной реализуемой системы на стыке Product, Game Design, AI/LLM, UX/UI, архитектуры, бэкенд/фронтенд, игровых систем, QA, аналитики, монетизации, проект-менеджмента. Упор — на обоснованные решения, формализацию требований и задач, а не на генерацию идей.
+- **Файл:** [`product/ai-driven-tts-game-designer.md`](product/ai-driven-tts-game-designer.md)
+
 ## Служебное / meta
 
 ### `gas-applet-config--file-transfer-to-vps.json`
